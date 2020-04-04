@@ -1,2 +1,2 @@
-# pedrogabrielyaya92-gmail.com
-simpleCalculator
+# simpleCalculatorApp
+simpleCalculatorApp
